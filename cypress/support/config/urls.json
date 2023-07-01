@@ -1,0 +1,6 @@
+{
+  "webdriveruniversity": {
+    "login": "https://www.webdriveruniversity.com/Login-Portal/index.html",
+    "contactUs": "https://www.webdriveruniversity.com/Contact-Us/contactus.html"
+  }
+}

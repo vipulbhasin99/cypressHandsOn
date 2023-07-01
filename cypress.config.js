@@ -3,7 +3,7 @@ const { defineConfig } = require("cypress");
 module.exports = defineConfig({
   e2e: {
     baseUrl: "https://www.webdriveruniversity.com/",
-    specPattern: "**/*.spec.js",
+    specPattern: "**/*.feature",
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
